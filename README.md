@@ -1,8 +1,7 @@
 > [!CAUTION]
 > This file contains the practical work solution, and this section specifically includes the required information and the solution.
 
-# SOLUTION
-##Lab 01: Implementing a Simple Heap File System with Record Insertion and Retrieval
+# SOLUTION / Lab 01: Implementing a Simple Heap File System with Record Insertion and Retrieval
 
 ## Objective
 
