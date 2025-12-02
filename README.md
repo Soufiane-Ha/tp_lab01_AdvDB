@@ -1,8 +1,8 @@
 > [!CAUTION]
-> his simply means that the NumPy library is not installed in your Python environment.
-To resolve the issue, install the library in the appropriate manner for your environment.
+> This file contains the practical work solution, and this section specifically includes the required information and the solution.
 
-# Lab 01: Implementing a Simple Heap File System with Record Insertion and Retrieval
+# SOLUTION
+##Lab 01: Implementing a Simple Heap File System with Record Insertion and Retrieval
 
 ## Objective
 
